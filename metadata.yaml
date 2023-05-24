@@ -1,11 +1,16 @@
 _repo: The-Cairn-b-A-gathering-of-precious-stones-from-many-hands_70721
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70721-h/images/cover.jpg
 creator:
   author:
     agent_name: Nicolas, Sarah
     gutenberg_agent_id: '55885'
     url: http://www.gutenberg.org/2009/agents/55885
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70721#The-Cairn-b-A-gathering-of-precious-stones-from-many-hands
 gutenberg_issued: '2023-05-08'
 identifiers:
   gutenberg: '70721'
